@@ -31,7 +31,7 @@ A Stream Deck plugin to keep track of your Gate.io's portfolio.
 In the *Currency* dropdown menu, select one of the assets available in the spot account.
 
 This action will display the following information:
-* Select asset
+* Selected asset
 * The USD amount of this asset the spot account owns
 * The percentage change over the past 24 hours
 * The total quantity of this asset in the spot account
