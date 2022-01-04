@@ -26,7 +26,7 @@ A Stream Deck plugin to keep track of your Gate.io's portfolio.
 # How it works?
 ## Portfolio Tracker (Spot)
 ### Pre-requisite:
-* API Key & Secret are added to the "GATE.IO SETTINGS" section
+* [API Key & Secret are added](#get-your-gateios-api-key) to the "*GATE.IO SETTINGS*" section
 
 ### Setup
 In the *Currency* dropdown menu, select one of the assets available in the spot account.
