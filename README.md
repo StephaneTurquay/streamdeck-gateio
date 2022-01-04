@@ -51,8 +51,9 @@ Click on the key to trigger a manual refresh of the corresponding asset.
 In the sidebar, right-click on one of the actions available and click "Uninstall..."
 
 
-# Changelog
 # Bug & Feature Request
 
 If you encounter a bug, have a feature request or question, please create a new issue in this repository: https://github.com/StephaneTurquay/streamdeck-gateio/issues
 
+# Changelog
+## 1.0.0 - Initial release
