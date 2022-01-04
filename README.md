@@ -16,14 +16,42 @@ A Stream Deck plugin to keep track of your Gate.io's portfolio.
 
 ## Assign Gate.io plugin to a streamdeck key:
 * Install Gate.io plugin from the Streamdeck store
-* From the right sidebar, find "Gate.io" category and expand it, if not already the case, by clicking on chevron
+* From the sidebar, find "Gate.io" category and expand it, if not already the case, by clicking on chevron
 * Drag & drop, the desired action on an empty key. At the bottom of the main panel, the settings of the action will appear.
-* Enter your API Key and Secret in the respective fields
+* In the "GATE.IO SETTINGS" section, enter your API Key and Secret in the respective fields
 * Select the settings you desire for this action
 * Voilà, have fun!
 
 
 # How it works?
+## Portfolio Tracker (Spot)
+### Pre-requisite:
+* API Key & Secret are added to the "GATE.IO SETTINGS" section
+
+In the *Currency* dropdown menu, select one of the assets available in the spot account.
+
+This action will display the following information:
+* Select asset
+* The USD amount of this asset the spot account owns
+* The percentage change over the past 24 hours
+* The total quantity of this asset in the spot account
+
+### Auto-Refresh
+
+The data will be refreshed every minute unless an error occured. If so, the key will show you the Gate.io logo.
+
+### Manual refresh
+
+Click on the key to trigger a manual refresh of the corresponding asset.
+
+
 # How to uninstall?
+
+In the sidebar, right-click on one of the actions available and click "Uninstall..."
+
+
 # Changelog
+# Bug & Feature Request
+
+If you encounter a bug, have a feature request or question, please create a new issue in this repository: https://github.com/StephaneTurquay/streamdeck-gateio/issues
 
