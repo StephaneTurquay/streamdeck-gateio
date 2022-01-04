@@ -28,6 +28,7 @@ A Stream Deck plugin to keep track of your Gate.io's portfolio.
 ### Pre-requisite:
 * API Key & Secret are added to the "GATE.IO SETTINGS" section
 
+### Setup
 In the *Currency* dropdown menu, select one of the assets available in the spot account.
 
 This action will display the following information:
