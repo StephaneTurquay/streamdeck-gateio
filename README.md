@@ -14,7 +14,7 @@ A Stream Deck plugin to keep track of your Gate.io's portfolio.
 * Enter your Fund Password and Complete the Two-Factor Authentication (2FA)
 * A modal will appear with your Key and Secret. Save them in a safe place and do not share it with anyone.
 
-## Assign Gate.io plugin to a streamdeck key:
+## Assign an action to a Streamdeck key:
 * Install Gate.io plugin from the Streamdeck store
 * From the sidebar, find "Gate.io" category and expand it, if not already the case, by clicking on chevron
 * Drag & drop, the desired action on an empty key. At the bottom of the main panel, the settings of the action will appear.
