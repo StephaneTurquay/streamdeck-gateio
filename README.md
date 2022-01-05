@@ -1,5 +1,6 @@
 # Streamdeck Gate.io Plugin 
-A Stream Deck plugin to keep track of your Gate.io's portfolio.
+A Stream Deck plugin to keep track of your Gate.io's portfolio assets.
+
 # How to install?
 ## Pre-requisite:
 * Sign-up an account on **[Gate.io](https://www.gate.io/signup/7469390)**
@@ -57,3 +58,7 @@ If you encounter a bug, have a feature request or question, please create a new 
 
 # Changelog
 ## 1.0.0 - Initial release
+**Action: Portfolio Tracker (Spot)**
+* Select one of the assets available on the spot account to display its total amount in USDT, 24-hour percentage change and the total quantity held.
+* Auto-refresh every minute
+* Press on the key to manually refresh
