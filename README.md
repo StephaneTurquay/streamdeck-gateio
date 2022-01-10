@@ -66,7 +66,10 @@ If you encounter a bug, have a feature request or question, please create a new 
 # Buy me a coffee
 If you feel like supporting the development of this plugin, I accept donations. Thank you 🙏
 
-BTC: ```bc1qn0stst7cnvau09vs4gh7puv5cp4grwx5vx07z7```
-ETH: ```0xde092e7E607CdD3aFE0D3FBeC81Fb24AbD4139F9```
-BNB: ```0xde092e7E607CdD3aFE0D3FBeC81Fb24AbD4139F9```
-MATIC: ```0xde092e7E607CdD3aFE0D3FBeC81Fb24AbD4139F9```
+BTC: `bc1qn0stst7cnvau09vs4gh7puv5cp4grwx5vx07z7`
+
+ETH: `0xde092e7E607CdD3aFE0D3FBeC81Fb24AbD4139F9` 
+
+BNB: `0xde092e7E607CdD3aFE0D3FBeC81Fb24AbD4139F9`
+
+MATIC: `0xde092e7E607CdD3aFE0D3FBeC81Fb24AbD4139F9`
