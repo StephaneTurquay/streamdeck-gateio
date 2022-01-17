@@ -25,6 +25,25 @@ A Stream Deck plugin to keep track of your Gate.io's portfolio assets.
 
 
 # How it works?
+## Gate.io Ticket (Spot)
+
+### Setup
+Once all Gate.io's symbols are loaded, pick a pair in the dropdown to display its information.
+
+This action will display the following information:
+* Selected asset
+* The latest ticket price
+* The percentage change over the past 24 hours
+
+### Auto-Refresh
+
+The data will be refreshed every minute unless an error occured. If so, the key will show you the Gate.io logo.
+
+### Manual refresh
+
+Click on the key to trigger a manual refresh of the corresponding asset.
+
+
 ## Portfolio Tracker (Spot)
 ### Pre-requisite:
 * [API Key & Secret are added](#get-your-gateios-api-key) to the "*GATE.IO SETTINGS*" section
@@ -57,6 +76,12 @@ In the sidebar, right-click on one of the actions available and click "Uninstall
 If you encounter a bug, have a feature request or question, please create a new issue in this repository: https://github.com/StephaneTurquay/streamdeck-gateio/issues
 
 # Changelog
+## 1.1.0 - Latest ticker prices
+**Action: Gate.io Ticker (Spot)**
+* Select one of the pairs available on Gate.io
+* Auto-refresh every minute
+* Press on the key to manually refresh
+
 ## 1.0.0 - Initial release
 **Action: Portfolio Tracker (Spot)**
 * Select one of the assets available on the spot account to display its total amount in USDT, 24-hour percentage change and the total quantity held.
