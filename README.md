@@ -24,7 +24,7 @@ A Stream Deck plugin to keep track of your Gate.io's portfolio assets.
 * Voilà, have fun!
 
 
-# How it works?
+# How does it work?
 ## Gate.io Ticket (Spot)
 
 ### Setup
